@@ -1,0 +1,4 @@
+# Newspaper scans: re-download with scripts\download-clippings.ps1
+clippings/
+# Office lock files
+~$*
